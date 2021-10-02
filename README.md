@@ -1,4 +1,4 @@
-# SpringBoot-JPA-Security
+# SpringBoot-Security
 
 ### 주요 기술
  - SpringBoot + JPA + MySQL + OAuth2.0를 이용한 프로젝트입니다.
